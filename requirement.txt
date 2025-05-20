@@ -1,5 +1,5 @@
 streamlit
-ultralytics
+git+https://github.com/ultralytics/ultralytics.git
 opencv-python
 Pillow
 python-dotenv
