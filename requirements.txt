@@ -1,6 +1,6 @@
 streamlit
-git+https://github.com/ultralytics/ultralytics
-opencv-python
+git+https://github.com/ultralytics/ultralytics.git
+opencv-python-headless
 Pillow
 python-dotenv
 google-generativeai
