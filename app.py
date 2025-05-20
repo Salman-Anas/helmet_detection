@@ -9,7 +9,6 @@ from PIL import Image
 from ultralytics import YOLO
 import shutil
 import numpy as np
-import cv2
 import shutil
 import google.generativeai as genai
 import glob
