@@ -154,4 +154,4 @@ def clear_folder(folder_path):
             except Exception as e:
                 print(f"⚠️ Failed to delete {file_path}: {e}")
 
-clear_folder("runs\streamlit")
+clear_folder("runs/streamlit")
